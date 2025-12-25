@@ -7,7 +7,7 @@
 
 <div align="center">
 
-**🌐 [View Live Demo](https://ide-birch-01200854.figma.site/) | 📊 [Dashboard](https://astraguarddashboard.lovable.app/) | 📚 [Documentation](docs/TECHNICAL.md)**
+**🌐 [Landing SITE](https://ide-birch-01200854.figma.site/) | 📊 [Dashboard](https://astraguarddashboard.lovable.app/) | 📚 [Documentation](docs/TECHNICAL.md)**
 
 </div>
 
