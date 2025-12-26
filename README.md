@@ -7,7 +7,7 @@
 
 <div align="center">
 
-**🌐 [Landing SITE](https://ide-birch-01200854.figma.site/) | 📊 [Dashboard](https://astraguarddashboard.lovable.app/) | 📚 [Documentation](docs/TECHNICAL.md) |📸 [Intro](https://drive.google.com/file/d/1YZcHsKbqfwtv5dqBxggRjIHBvo1AyiCZ/view?usp=sharing)**
+**🌐 [Landing SITE](https://ide-birch-01200854.figma.site/) | 📊 [Dashboard](https://astraguarddashboard.lovable.app/) | 📚 [Documentation](docs/TECHNICAL.md) |📸 [Intro](https://drive.google.com/file/d/1pKkZosBJdk8tvfBrqNelPeWyY265eOcI/view?usp=drive_link)**
 
 </div>
 
