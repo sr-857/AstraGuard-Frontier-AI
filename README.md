@@ -174,7 +174,11 @@ resonance = base_importance × (1 + 0.3 × log(1 + recurrence_count)) × time_de
 pytest tests/ -v
 ```
 
-**Run specific tests:**
+**Run specific tests:**<div align="center">
+
+**🌐 [Landing SITE ](https://sr-857.github.io/AstraGuard/) | 📊 [Dashboard prototype](https://astraguarddashboard.lovable.app/) | 📚 [Documentation](docs/TECHNICAL.md) |📸 [Intro](https://drive.google.com/file/d/1pKkZosBJdk8tvfBrqNelPeWyY265eOcI/view?usp=drive_link) |🗂️ [GDrive](https://drive.google.com/drive/folders/1j3Ra1_q6v-lEavG40eR2mRzVLcqDYYKH)**
+
+</div>
 ```bash
 pytest tests/test_memory_store.py -v
 pytest tests/test_recurrence_scorer.py -v
@@ -301,15 +305,11 @@ MIT License - see [LICENSE](LICENSE)
 **Repository**: https://github.com/sr-857/AstraGuard
 
 ---
+<div align="center">
 
-## 🗺️ Roadmap
+** 📚 [Documentation](docs/TECHNICAL.md) |📸 [Intro](https://drive.google.com/file/d/1pKkZosBJdk8tvfBrqNelPeWyY265eOcI/view?usp=drive_link) |🗂️ [GDrive](https://drive.google.com/drive/folders/1j3Ra1_q6v-lEavG40eR2mRzVLcqDYYKH)**
 
-- [x] **v1.0**: Basic anomaly detection
-- [x] **v2.0**: Modular adaptive memory engine
-- [x] **v2.1**: Agentic decision loop
-- [ ] **v2.2**: Complete response orchestration
-- [ ] **v2.3**: Pathway streaming integration
-- [ ] **v3.0**: Production deployment package
+</div>
 
 ---
 
