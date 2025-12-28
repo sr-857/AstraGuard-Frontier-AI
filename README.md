@@ -12,14 +12,12 @@
 <div align="center">
 
 **🌐 [Landing SITE ](https://sr-857.github.io/AstraGuard/) | 📊 [Dashboard prototype](https://astraguarddashboard.lovable.app/) | 📚 [Documentation](docs/TECHNICAL.md) |📸 [Intro](https://drive.google.com/file/d/1pKkZosBJdk8tvfBrqNelPeWyY265eOcI/view?usp=drive_link) |🗂️ [GDrive](https://drive.google.com/drive/folders/1j3Ra1_q6v-lEavG40eR2mRzVLcqDYYKH)**
-**📌[AstraGuard_Report](https://drive.google.com/file/d/17Vvhz9CNO_fVLpxJTH2eKSktByT3HnKt/view)**
-</div>
 
+</div>
+**📌[AstraGuard_Report](https://drive.google.com/file/d/17Vvhz9CNO_fVLpxJTH2eKSktByT3HnKt/view)**
 > **Streaming anomalies. Self-updating memory. Decisions that trigger actions.**
 
 AstraGuard AI is an intelligent autonomous fault detection and recovery system for CubeSats, evolved for the **Synaptix Frontier AI Hackathon @ IIT Madras**. The system demonstrates **streaming awareness, adaptive memory, and autonomous decision-making** using Pathway's real-time engine and biologically-inspired memory architecture.
-
-
 ---
 
 
